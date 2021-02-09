@@ -4,14 +4,6 @@ A project in which the Deep Q Learning method for playing snake was implemented 
 
 The goal of the project was to implement DQN and train the algorithm on a simple game in PyGame to demonstrate how the algorithm works in practice.
 
-# Table of Contents
-
-- [Getting Started](##getting-started)
-  - [Prerequisites](##prerequisites)
-  - [Installation](##installation)
-- [Licence](##Licence)
-- [Contact](##contact)
-
 ## Getting Started
 
 For this project I use the environment in Anaconda where I install PyTorch:
